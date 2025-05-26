@@ -9,7 +9,7 @@
 
 - 🤝 I’m open for **any advises**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ozgurisikk?tab=repositories](https://github.com/ozgurisikk?tab=repositories)
+- 👨‍💻 A few of my projects are available at [https://github.com/ozgurisikk?tab=repositories](https://github.com/ozgurisikk?tab=repositories)
 
 - 💬 Ask me **about anything**
 
